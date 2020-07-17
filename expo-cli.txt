@@ -1,0 +1,2 @@
+npm cache clean --force
+npm install -g expo-cli@3.4.1

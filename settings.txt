@@ -1,0 +1,45 @@
+{
+  "extensions.ignoreRecommendations": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "material-icon-theme",
+  "debug.console.fontFamily": "Fira Code Retina",
+  "editor.fontFamily": "'Fira Code Retina', Consolas, 'Courier New', monospace",
+  "window.zoomLevel": 1,
+  "editor.fontLigatures": false,
+  "editor.fontSize": 12,
+  "editor.lineHeight": 20,
+  "update.mode": "none",
+  "editor.renderWhitespace": "all",
+  "editor.rulers": [
+    80,
+    120
+  ],
+  "editor.tabSize": 1,
+  "terminal.integrated.fontSize": 12,
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "breadcrumbs.enabled": true,
+  "editor.parameterHints.enabled": true,
+  "vsicons.dontShowNewVersionMessage": true,
+  "prettier.singleQuote": true,
+  "files.autoSave": "onFocusChange",
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "explorer.confirmDragAndDrop": false
+}
